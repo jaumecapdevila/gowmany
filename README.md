@@ -7,6 +7,8 @@
 
 Just run the command `gowmany` and answer all the questions!!!
 
+This command uses my [gocap](https://github.com/jaumecapdevila/gocap) to do all the calculus. Feel free to use it in you projects!
+
 ## Meta
 
 Jaume Capdevila – [@otherjaume](https://twitter.com/otherjaume) – contact@jaumecapdevila.net
